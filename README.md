@@ -1,4 +1,4 @@
-# WitnessDB: A Database for VerificationWitnesses 2.0 (Neo4j)
+# WitnessDB: A Database for Verification Witnesses 2.0 (Neo4j)
 
 **Authors**: Ivayla Ivanova
 
